@@ -59,17 +59,6 @@ public struct Palette: View {
     static public let paperZ16: Palette = Palette("Paper-Z16")
     static public let paperZ24: Palette = Palette("Paper-Z24")
 
-    
-    static public let primary: Palette = Palette("Primary")
-    static public let primaryAccent: Palette = Palette("Primary-Accent")
-    static public let primaryDark: Palette = Palette("Primary-Dark")
-    static public let primaryLight: Palette = Palette("Primary-Light")
-
-    static public let secondary: Palette = Palette("Secondary")
-    static public let secondaryAccent: Palette = Palette("Secondary-Accent")
-    static public let secondaryDark: Palette = Palette("Secondary-Dark")
-    static public let secondaryLight: Palette = Palette("Secondary-Light")
-
     static public let textPrimary: Palette = Palette("Text-Primary")
     static public let textSecondary: Palette = Palette("Text-Secondary")
     static public let textHint: Palette = Palette("Text-Hint")

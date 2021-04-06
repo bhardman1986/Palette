@@ -28,9 +28,6 @@ let package = Package(
             resources: [
                 .process("Palette")
             ]
-        ),
-        .testTarget(
-            name: "PaletteTests",
-            dependencies: ["Palette"]),
+        )
     ]
 )
